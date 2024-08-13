@@ -20,7 +20,7 @@
 </div>
 <br/>
 <div>
-  - Richard Valentim
+  - Richard Valentim da Silva
   <br/>
    - ⚡ Fun fact: Estagiário do Café
   <br/>
